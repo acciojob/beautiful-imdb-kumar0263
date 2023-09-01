@@ -2,13 +2,14 @@
 /* Your CSS Code here. */
  
 .moviePic{
-	height:
-	width:
-	opacity:
+	height:200px
+	width:100px
+	opacity:400px
 }
 .movieDetail{
-	position:
-		top:
-	width: text-align:
-	font-size:
+	position:center
+		top:center
+	width:center
+	text-align:center
+	font-size:center
 }
